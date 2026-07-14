@@ -11,15 +11,22 @@ Ain Al Buhair Logistics specializes in land transportation, freight & cargo hand
 
 # Services
 . Land Transportation
+
 . Freight & Cargo Handling
+
 . Delivery Services
+
 . Warehousing
+
 . Logistics Solutions
 
 # Features
 . Fully bilingual (Arabic RTL / English)
+
 . Mobile responsive design
+
 . WhatsApp integration for instant quote requests
+
 . Modern, premium corporate identity (Navy Blue & Orange)
 
 # Contact
