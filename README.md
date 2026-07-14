@@ -1,37 +1,11 @@
-# Logistics
-Official website for Ain Al Buhair Logistics — a Saudi Arabia-based land transportation, freight, and logistics company. Bilingual (AR/EN), RTL-ready, mobile-first corporate site.
 
-# Ain Al Buhair Logistics | عين البحير للخدمات اللوجستية
-Official website for Ain Al Buhair Logistics, a Saudi Arabia-based logistics and transportation company providing reliable, professional, and efficient supply chain solutions.
+  # Logistics Company Branding Design
 
-# About
-Ain Al Buhair Logistics specializes in land transportation, freight & cargo handling, delivery services, warehousing, and end-to-end logistics solutions across the Kingdom of Saudi Arabia.
+  This is a code bundle for Logistics Company Branding Design. The original project is available at https://www.figma.com/design/M7mKi9uCfeHP8bnQC7Iec8/Logistics-Company-Branding-Design.
 
-"Your Trusted Partner in Transportation & Logistics" "شريكك الموثوق في النقل والخدمات اللوجستية"
+  ## Running the code
 
-# Services
-. Land Transportation
+  Run `npm i` to install the dependencies.
 
-. Freight & Cargo Handling
-
-. Delivery Services
-
-. Warehousing
-
-. Logistics Solutions
-
-# Features
-. Fully bilingual (Arabic RTL / English)
-
-. Mobile responsive design
-
-. WhatsApp integration for instant quote requests
-
-. Modern, premium corporate identity (Navy Blue & Orange)
-
-# Contact
-+966 53 033 9017
-
-info@ainalbuhair.com
-
-ainalbuhair.com
+  Run `npm run dev` to start the development server.
+  
